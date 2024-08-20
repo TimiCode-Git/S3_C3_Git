@@ -10,9 +10,8 @@ public class PlayerController : MonoBehaviour
         Debug.Log("HOLA");
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        Debug.Log("Watafac");
     }
 }
